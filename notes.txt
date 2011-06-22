@@ -8,7 +8,7 @@ N. Section => Summary, [so] purpose of this section
 
 0. Intro, About us, Outline of the talk, etc.
 
-1. What is Travis? => Show what it does, so people get a basic clue.
+1. What? => Show what it does, so people get a basic clue.
 
   - Josh (?) does this:
 
@@ -27,14 +27,18 @@ N. Section => Summary, [so] purpose of this section
 
   - Conclusion: So, Travis CI is a continuous integration service on the web that you can use to run your tests effortlessly.
 
-2. Why Travis? => Explain how it is different from others, so people understand the purpose.
+2. Why? => Explain how it is different from others, so people understand the purpose.
 
   - We're obviously not alone. List others. (CruiseControl, Jenkins, CIJoe, Integrity, Big Tuna ..., Railsonfire?)
   - We don't just want to write another piece of software. We want to make the world a better place!
   - List aspects (Ruby, Open API, Distributed, Community, Instant, Simple)
   - Vision: Become for builds what Gemcutter is for gems.
 
-3. State of Travis => List achievements and awesomeness, so people understand it already rocks.
+3. How? (Architecture) => Explain how it is done, so people understand it's not that hard (and they can join)
+
+  - show how Travis works (Github => App => Worker => App => Clients)
+
+4. State of Travis => List achievements and awesomeness, so people understand it already rocks.
 
   - Some statistics (lots of shit already)
   - Who's testing? (RSpec, Cucumber, Devise, ...)
@@ -42,10 +46,6 @@ N. Section => Summary, [so] purpose of this section
   - Rails loves us and wants to test on Travis
   - Rubinius loves us and helps fixing bleeding edge rbx preview installs
   - People are throwing boxes at us. We can't even use as many servers as people want to give to us!
-
-4. Architecture => Explain how it is done, so people understand it's not that hard (and they can join)
-
-  - show how Travis works (Github => App => Worker => App => Clients)
 
 5. Things we have learned => ???, not sure what the purpose of this section is, actually i'm not sure about the whole section
 

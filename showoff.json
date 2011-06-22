@@ -2,8 +2,7 @@
   "name": "Travis CI",
   "description": "Distributed, Continous Integration for the Ruby community",
   "sections": [
-    { "section": "1-intro" },
-    { "section": "2-about" }
+    { "section": "slides" }
   ]
 }
 

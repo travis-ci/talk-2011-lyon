@@ -1,0 +1,29 @@
+@font-face { font-family: Cabin; src: url('Cabin-Bold-TTF.ttf'); }
+@font-face { font-family: Practique; src: url('Practique.ttf'); }
+
+body {
+  font-family: Practique;
+}
+
+h1 {
+  font-size: 216px;
+  margin: 0 0 0.25em 0;
+}
+.bullets h1 {
+  font-size: 150px;
+}
+li {
+  font-size: 72px;
+  padding: 0 !important;
+  line-height: 150%;
+}
+p {
+  font-size: 72px;
+}
+
+*[ref="slides/01-intro"] h1 {
+  font-size: 216px;
+}
+*[ref="slides/03-outline"] li {
+  font-size: 90px;
+}
