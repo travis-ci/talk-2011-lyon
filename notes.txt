@@ -1,0 +1,63 @@
+Strucure:
+
+N. Section => Summary, [so] purpose of this section
+  - detail 1
+  - detail 2
+
+-----------------------------------------------------------------------------------------------------------------------
+
+0. Intro, About us, etc.
+
+1. What is Travis? => Show what it does, so people get a basic clue.
+
+  - One of us is doing this:
+
+    Get someone up on stage who has a repository that is not on travis-ci but that has a Gemfile.
+    Tell him to sign up with Github and hook up the repo.
+    Tell him to go to the Github admin page and run the tests.
+    Thanks.
+
+  - Meanwhile the other one can talk about Travis and what's on the screen generally.
+    Gotta figure out, what exactly.
+
+  - Conclusion: So, Travis CI is a continuous integration service on the web that you can use to run your tests effortlessly.
+
+2. Why Travis? => Explain how it is different from others, so people understand the purpose.
+
+  - List others.
+  - Make the world a better place!
+  - List aspects (Ruby, Open API, Distributed, Community, Instant, Simple)
+  - Vision: Become for builds what Gemcutter is for gems.
+
+3. State of Travis => List achievements and awesomeness, so people understand it already rocks.
+
+  - Some statistics (lots of shit already)
+  - Who's testing? (RSpec, Cucumber, Devise, ...)
+  - Github changed their API
+  - Rails wants to test on Travis
+  - People are throwing boxes at us. We can't even use as many servers as people want to give to us!
+
+4. Architecture => Explain how it is done, so people understand it's not that hard (and they can join)
+
+  - show how Travis works
+
+5. Things we have learned => ???, not sure what the purpose of this section is, actually i'm not sure about the whole section
+
+  - Manage expectations vs doability
+  - LC_ALL
+
+6. The Future => Explain what we have on the list, so people get eager to jump in and help
+
+  - Connect loose ends of the Ruby community infrastructure (isitruby19, ... what else?)
+  - Eager tests for important Gems triggered by Ruby (Rubinius, ...) releases
+  - Integrate with Github more tightly (pre-tested pull-requests)
+  - Build more clients (desktop toolbar app, mobile clients)
+  - Build on other architectures (Macruby, ...)
+
+7. Join us! => Explain how people can join us, so they'll do it :)
+
+
+98. Who's awesome? You're awesome!
+99. Questions?
+
+  - Have the Travis naming question prepared in case people need a while.
