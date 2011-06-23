@@ -1,8 +1,31 @@
 @font-face { font-family: Cabin; src: url('Cabin-Bold-TTF.ttf'); }
 @font-face { font-family: Practique; src: url('Practique.ttf'); }
 
-body {
+html, body {
   font-family: Practique;
+  background: transparent;
+  height: 100% !important;
+}
+#preso, .slide {
+  position: relative !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+#preso {
+  -webkit-box-shadow: none;
+  -box-shadow: none;
+  display: table;
+}
+.slide {
+  padding-top: 40px !important;
+  display:table-cell;
+  vertical-align:middle;
+}
+.content {
+  margin: 0 !important;
+}
+#footer {
+  display: none;
 }
 
 h1 {
@@ -24,6 +47,48 @@ p {
 *[ref="slides/01-intro"] h1 {
   font-size: 216px;
 }
+*[ref="slides/03-outline"] {
+  margin-top: 10% !important;
+}
+*[ref="slides/03-outline"] ul {
+  position: relative;
+  margin: 0 10% 0 10%;
+  padding: 0;
+  width: 80%;
+}
 *[ref="slides/03-outline"] li {
+  width: 31%;
+  line-height: 180%;
+  margin: 1%;
+  float: left;
   font-size: 90px;
+  text-align: center;
+}
+*[ref="slides/03-outline"] li:nth-child(1) {
+  background-color: #fcfc4c;
+}
+*[ref="slides/03-outline"] li:nth-child(2) {
+  background-color: #a4fd4c;
+}
+*[ref="slides/03-outline"] li:nth-child(3) {
+  background-color: #4cfdfd;
+}
+*[ref="slides/03-outline"] li:nth-child(4) {
+  background-color: #fd4cdf;
+}
+*[ref="slides/03-outline"] li:nth-child(5) {
+  background-color: #fd4c4c;
+}
+*[ref="slides/03-outline"] li:nth-child(6) {
+  background-color: #fda44c;
+}
+*[ref="slides/06-how/2"] h1 {
+}
+*[ref="slides/06-how/2"] img {
+}
+
+
+
+*[ref="slides/07-now/8"] {
+  background: url(images/love.png) no-repeat 80% -9%;
 }

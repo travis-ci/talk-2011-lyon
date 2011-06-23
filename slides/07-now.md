@@ -40,7 +40,7 @@
 * that's just the beginning.
 
 !SLIDE bullets
-# LOVE!
+# LOVE
 * Github, Rails, Rubinius, (?)
 * Tons of free boxes!
 * Great sponsors!
@@ -55,7 +55,7 @@
 # Team
 * Sven Fuchs
 * Josh Kalderimis
-* Alex P
+* Alexander Petrov
 * Michael S. Klishin (AMQP)
-* Vlad (?) (RubyShift)
+* Vladislav Gorodetskiy (RubyShift)
 * Fritz Thielemann

@@ -1,9 +1,6 @@
 !SLIDE
 # How?
 
-!SLIDE bullets
+!SLIDE bullets center
 # Architecture
-* Github
-* The "App"
-* Workers
-* Clients
+![architecture](../images/travis.architecture.png)

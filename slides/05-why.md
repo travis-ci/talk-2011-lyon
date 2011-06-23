@@ -10,22 +10,21 @@
 * MEH!
 
 !SLIDE bullets
-# Motivation
+# Wanted
 * Public
 * Open
 * Distributed
 * Community
 
 !SLIDE bullets
-# Motivation
+# Wanted
 * Ruby
 * Modern
 * Hackable
 * Fun!
 
 !SLIDE bullets
-# Motivation
-* Make the world a better place!
+# Make the world a better place!
 
 !SLIDE bullets
 # Vision
