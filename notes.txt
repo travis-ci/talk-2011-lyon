@@ -1,69 +1,12 @@
-Strucure:
+- main contributors
+- what some people said
+- new worker
 
-N. Section => Summary, [so] purpose of this section
-  - detail 1
-  - detail 2
+# testing tips
+when getting your project ready for ci and testing in general, things to remember
+  - ruby debug
+  - gem groups
+  - version constraints
+  - rake file
 
------------------------------------------------------------------------------------------------------------------------
-
-0. Intro, About us, Outline of the talk, etc.
-
-1. What? => Show what it does, so people get a basic clue.
-
-  - Josh (?) does this:
-
-    - Get someone up on stage who has a repository that is not on travis-ci but that has a Gemfile.
-    - On a second notebook check the repository briefly and maybe make a quick correction to it (like add rake to the Gemfile).
-    - Then connect this notebook to the screen.
-    - Tell him to sign up with Github and hook up the repo.
-    - Tell him to go to the Github admin page and run the tests.
-    - Thanks. Reconnect the main notebook if necessary.
-
-  - Meanwhile Sven (?) introduces Travis:
-
-    - Travis is an open source CI solution for the Ruby community on the Web.
-    - Brief history (would make sense, but is there enough time? is it worth it at all?)
-    - Show the Travis UI and briefly click through it.
-
-  - Conclusion: So, Travis CI is a continuous integration service on the web that you can use to run your tests effortlessly.
-
-2. Why? => Explain how it is different from others, so people understand the purpose.
-
-  - We're obviously not alone. List others. (CruiseControl, Jenkins, CIJoe, Integrity, Big Tuna ..., Railsonfire?)
-  - We don't just want to write another piece of software. We want to make the world a better place!
-  - List aspects (Ruby, Open API, Distributed, Community, Instant, Simple)
-  - Vision: Become for builds what Gemcutter is for gems.
-
-3. How? (Architecture) => Explain how it is done, so people understand it's not that hard (and they can join)
-
-  - show how Travis works (Github => App => Worker => App => Clients)
-
-4. State of Travis => List achievements and awesomeness, so people understand it already rocks.
-
-  - Some statistics (lots of shit already)
-  - Who's testing? (RSpec, Cucumber, Devise, ...)
-  - Github loves us and changed their API
-  - Rails loves us and wants to test on Travis
-  - Rubinius loves us and helps fixing bleeding edge rbx preview installs
-  - People are throwing boxes at us. We can't even use as many servers as people want to give to us!
-
-5. Things we have learned => ???, not sure what the purpose of this section is, actually i'm not sure about the whole section
-
-  - Manage expectations vs doability
-  - LC_ALL
-
-6. The Future => Explain what we have on the list, so people get eager to jump in and help
-
-  - Connect loose ends of the Ruby community infrastructure (isitruby19, ... what else?)
-  - Eager tests for important Gems triggered by Ruby (Rubinius, ...) releases
-  - Integrate with Github more tightly (pre-tested pull-requests)
-  - Build more clients (desktop toolbar app, mobile clients)
-  - Build on other architectures (Macruby, ...)
-
-7. Join us! => Explain how people can join us, so they'll do it :)
-
-
-98. Who's awesome? You're awesome!
-99. Questions?
-
-  - Have the Travis naming question prepared in case people need a while.
+- sponsors page
