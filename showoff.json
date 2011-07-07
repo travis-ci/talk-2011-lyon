@@ -3,6 +3,7 @@
   "description": "Distributed, Continous Integration for the Ruby community",
   "sections": [
     { "section": "slides" }
+    /*{ "section": "slides_extra" }*/
   ]
 }
 

@@ -1,4 +1,7 @@
-!SLIDE 
+!SLIDE
+# Before we get started
+
+!SLIDE outline
 # Travis CI
 * What
 * Why

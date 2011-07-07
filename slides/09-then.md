@@ -5,16 +5,22 @@
 # The Future
 * AMQP
 * Sproutcore
-* Github integration
-* Publish data
 
 !SLIDE bullets
 # The Future
-* Eager tests
+* Github Fork Queue
+* PubSub data
+
+!SLIDE bullets
+# The Future
+* isit[ruby19|jruby].com
+* Dependent Builds
+
+!SLIDE bullets
+# The Future
 * More clients
 * More infrastructures
-* Tons of ideas!
 
 !SLIDE bullets
 # Better world
-* This will change your life!
+* This will change your life

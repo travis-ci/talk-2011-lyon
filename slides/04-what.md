@@ -3,9 +3,9 @@
 
 !SLIDE bullets
 # What?
-* Open source
-* CI system
-* Ruby community
+* Open Source
+* Continous Integration
+* Ruby Community
 
 !SLIDE
 # Have a look!

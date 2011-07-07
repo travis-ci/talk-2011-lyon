@@ -1,6 +1,5 @@
 !SLIDE
 # How?
 
-!SLIDE bullets center
-# Architecture
+!SLIDE bullets center architecture
 ![architecture](../images/travis.architecture.png)

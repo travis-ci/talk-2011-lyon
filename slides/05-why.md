@@ -11,28 +11,19 @@
 
 !SLIDE bullets
 # Wanted
-* Public
-* Open
-* Distributed
-* Community
+* Public, Open, Distributed
 
 !SLIDE bullets
 # Wanted
-* Ruby
-* Modern
-* Hackable
-* Fun!
+* Modern, Hackable, Fun!
 
 !SLIDE bullets
 # Make the world a better place!
 
 !SLIDE bullets
 # Vision
-* Become for builds what<br/>rubygems.org is for gems!
+* For <strong>builds</strong> what<br/>rubygems.org is for gems!
 
 !SLIDE bullets
 # Vision
-* Connected
-* Instant
-* Open data
-* Ubiquous
+* Connected, Open, Instant

@@ -6,7 +6,10 @@ html, body {
   background: transparent;
   height: 100% !important;
 }
-#preso, .slide {
+/* strong {
+  background-color: yellow;
+} */
+#preso, .slide, .content {
   position: relative !important;
   width: 100% !important;
   height: 100% !important;
@@ -17,12 +20,12 @@ html, body {
   display: table;
 }
 .slide {
-  padding-top: 40px !important;
-  display:table-cell;
-  vertical-align:middle;
+  display: table-row;
 }
 .content {
+  display: table-cell;
   margin: 0 !important;
+  vertical-align: middle;
 }
 #footer {
   display: none;
@@ -44,19 +47,16 @@ p {
   font-size: 72px;
 }
 
-*[ref="slides/01-intro"] h1 {
+.outline h1 {
   font-size: 216px;
 }
-*[ref="slides/03-outline"] {
-  margin-top: 10% !important;
-}
-*[ref="slides/03-outline"] ul {
+.outline ul {
   position: relative;
-  margin: 0 10% 0 10%;
+  margin: -2% 10% 0 10%;
   padding: 0;
   width: 80%;
 }
-*[ref="slides/03-outline"] li {
+.outline li {
   width: 31%;
   line-height: 180%;
   margin: 1%;
@@ -64,31 +64,56 @@ p {
   font-size: 90px;
   text-align: center;
 }
-*[ref="slides/03-outline"] li:nth-child(1) {
+.outline li:nth-child(1) {
   background-color: #fcfc4c;
 }
-*[ref="slides/03-outline"] li:nth-child(2) {
+.outline li:nth-child(2) {
   background-color: #a4fd4c;
 }
-*[ref="slides/03-outline"] li:nth-child(3) {
+.outline li:nth-child(3) {
   background-color: #4cfdfd;
 }
-*[ref="slides/03-outline"] li:nth-child(4) {
+.outline li:nth-child(4) {
   background-color: #fd4cdf;
 }
-*[ref="slides/03-outline"] li:nth-child(5) {
+.outline li:nth-child(5) {
   background-color: #fd4c4c;
 }
-*[ref="slides/03-outline"] li:nth-child(6) {
+.outline li:nth-child(6) {
   background-color: #fda44c;
 }
-*[ref="slides/06-how/2"] h1 {
+
+.architecture img {
+  padding-left: 6%;
 }
-*[ref="slides/06-how/2"] img {
+.love {
+  background: url(images/love.png) no-repeat 80% 4%;
 }
 
+.sponsors ul {
+  width: 600px;
+  margin: auto;
+}
+.sponsors li {
+  display: inline-block;
+  width: 170px;
+  height: 65px;
+  margin: 0 0 0 30px;
+  padding: 0;
+  overflow: hidden;
+  text-indent: -999px;
+}
+.sponsors li:nth-child(1) {
+  margin-left: 0;
+  background: url(images/banners/avarteq.png) no-repeat 50% 50%;
+}
+.sponsors li:nth-child(2) {
+  background: url(images/banners/pusher.png) no-repeat;
+}
+.sponsors li:nth-child(3) {
+  background: url(images/banners/postmark.png) no-repeat;
+}
 
-
-*[ref="slides/07-now/8"] {
-  background: url(images/love.png) no-repeat 80% -9%;
+.team img {
+  width: 10%;
 }
