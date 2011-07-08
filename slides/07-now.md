@@ -47,6 +47,6 @@
 
 !SLIDE bullets team
 # Team
-* ![anatares](../images/team/alex.png) ![anatares](../images/team/antares_.jpg) ![anatares](../images/team/bai.jpeg) ![anatares](../images/team/charper.jpeg) ![anatares](../images/team/fritzek.jpeg)
+* ![alex](../images/team/alex.png) ![antares](../images/team/antares_.jpg) ![bai](../images/team/bai.jpeg) ![charper](../images/team/charper.jpeg) ![fritzek](../images/team/fritzek.jpeg)
 * @ifesdjeen, @michaelklishin,
 * @\_beai, @charperuk, @fritzek
