@@ -4,7 +4,7 @@
 !SLIDE bullets
 # What?
 * Open Source
-* Continous Integration
+* Continuous Integration
 * Ruby Community
 
 !SLIDE
