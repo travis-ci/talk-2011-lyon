@@ -6,10 +6,18 @@
 * AMQP
 * Sproutcore
 
+!SLIDE bullets center architecture
+![architecture](../images/travis.architecture.png)
+
+!SLIDE bullets
+# The Future
+* AMQP
+* Sproutcore
+
 !SLIDE bullets
 # The Future
 * Github Fork Queue
-* PubSub data
+* Webhooks
 
 !SLIDE bullets
 # The Future
@@ -18,9 +26,19 @@
 
 !SLIDE bullets
 # The Future
-* More clients
-* More infrastructures
+* Toolbar application
+* Mobile client
+
+!SLIDE bullets center tweets
+# The Future
+![img](../images/tweets/freeformz.png)
+
+!SLIDE
+# Demo!
 
 !SLIDE bullets
-# Better world
-* This will change your life
+# One more thing ...
+
+!SLIDE bullets
+# Rails
+* Testing on Travis

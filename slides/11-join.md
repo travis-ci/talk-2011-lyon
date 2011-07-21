@@ -1,4 +1,8 @@
 !SLIDE bullets
+# Better world
+* This will change your life
+
+!SLIDE bullets
 # Join us!
 * Make the world a better place!
 

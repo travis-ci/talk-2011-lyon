@@ -1,6 +1,4 @@
-- main contributors
 - what some people said
-- new worker
 
 # testing tips
 when getting your project ready for ci and testing in general, things to remember
@@ -8,5 +6,3 @@ when getting your project ready for ci and testing in general, things to remembe
   - gem groups
   - version constraints
   - rake file
-
-- sponsors page

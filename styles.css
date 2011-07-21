@@ -46,6 +46,10 @@ li {
 p {
   font-size: 72px;
 }
+.strike-through {
+  position: absolute;
+  background-image: url(images/strike-through.png);
+}
 
 .outline h1 {
   font-size: 216px;
@@ -89,29 +93,26 @@ p {
 .love {
   background: url(images/love.png) no-repeat 80% 4%;
 }
+.tweets img {
+  width: 75%;
+}
 
+.gosh li {
+  font-size: 36px;
+}
 .sponsors ul {
   width: 600px;
   margin: auto;
 }
 .sponsors li {
   display: inline-block;
-  width: 170px;
-  height: 65px;
   margin: 0 0 0 30px;
-  padding: 0;
-  overflow: hidden;
-  text-indent: -999px;
 }
-.sponsors li:nth-child(1) {
-  margin-left: 0;
-  background: url(images/banners/avarteq.png) no-repeat 50% 50%;
-}
-.sponsors li:nth-child(2) {
-  background: url(images/banners/pusher.png) no-repeat;
-}
-.sponsors li:nth-child(3) {
-  background: url(images/banners/postmark.png) no-repeat;
+.sponsors img {
+  vertical-align: middle;
+  border: 1px solid #999;
+  height: 72px;
+  width: 170px;
 }
 
 .team img {

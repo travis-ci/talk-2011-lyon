@@ -1,0 +1,37 @@
+Perfect tension curve for the standup game:
+
+
+Before we get started! We'd like to get your blood moving a bit.
+
+1. So ... please everybody stand up for a second! ... Yes, this will only take a minute. Please everybody stand up.
+
+  => Obviously everybody should be standing.
+
+2. Now, Travis is about testing code. Please everybody sit down who is NOT testing their code. Not writing any
+   tests nor running any test suites.
+
+  => Now still almost everybody is standing up. Mostly only a few non-programmers will sit down.
+     (Big "yes, I made it" experience.)
+
+3. Now, Travis is also about open source. Please everybody sit down who is NOT involved in any open-source project
+   once in a while, like maintaing a gem or website or any other open source code, be it at work or in your spare time.
+
+  => Now still a *lot* of people will be standing (at least that's what happened in Berlin). This will already be
+     interesting for people to see. (Also, by now the majority of the audience is in now in some sort of "yes-mode"
+     and feeling like being part of a big crowd of similar-minded devs.)
+
+4. Now, please everybody sit down who is NOT running THESE tests for THESE open-source projects on a continous
+   integration server.
+
+  => This is the big surprise and turning point. The vast majority will sit down ... and this is exactly our
+     target audience.
+
+5. Now, please everybody sit down who is NOT running these tests on their continous integration server against
+   MULTIPLE rubies.
+
+  => This now is fading out the tension curve. Only very few people will be still standing. These guys will be
+     curious about Travis, but they've already solved things for themselves.
+
+Thank you! You will understand what's up with these questions during the talk.
+
+Everybody will be very curious about the talk now.
