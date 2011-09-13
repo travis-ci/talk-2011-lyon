@@ -29,16 +29,20 @@
 * Toolbar application
 * Mobile client
 
+!SLIDE bullets
+# One more thing ...
+
 !SLIDE bullets center tweets
 # The Future
 ![img](../images/tweets/freeformz.png)
 
-!SLIDE
-# Demo!
+!SLIDE bullets
+# The Future
+* Node.js
+* Clojure
 
 !SLIDE bullets
-# One more thing ...
+# The Future
+* Erlang!
 
-!SLIDE bullets
-# Rails
-* Testing on Travis
+

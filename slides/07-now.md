@@ -15,21 +15,9 @@
 
 !SLIDE bullets
 # Facts!
-* 570 Repositories
-* 9,700 Commits
-* 40,000 Builds
-
-!SLIDE bullets strike-through
-# Facts!
-* 570 Repositories
-* 9,700 Commits
-* 40,000 Builds
-
-!SLIDE bullets
-# Facts!
-* 625 Repositories
-* 11,000 Commits
-* 45,000 Builds
+* 1,200 Repositories
+* 20,000 Commits
+* 80,000 Builds
 
 !SLIDE bullets
 # Users?
@@ -58,50 +46,31 @@
 * faraday ripple serve celluloid stamp broadcast forem mongoid-tree tabtab
 
 !SLIDE bullets
+# By the way ...
+* Rails, Rubinius, Rubygems, Bundler
+
+!SLIDE bullets
+# WHY DAY
+* Shoes!
+
+!SLIDE bullets
 # And ...
 * that's just the beginning.
-
-!SLIDE bullets love
-# LOVE
-* Github, Rails, Rubinius, ...
-* Tons of free boxes!
-* Great sponsors!
-
-!SLIDE bullets center tweets
-![img](../images/tweets/fxn.png)
-
-!SLIDE bullets center tweets
-![img](../images/tweets/technoweenie.png)
-
-!SLIDE bullets center tweets
-![img](../images/tweets/rbates.png)
-
-!SLIDE bullets center tweets
-![img](../images/tweets/josevalim.png)
-
-!SLIDE bullets center tweets
-![img](../images/tweets/pat.png)
 
 !SLIDE bullets center tweets
 ![img](../images/tweets/mislav.png)
 
-!SLIDE bullets center tweets
-![img](../images/tweets/josevalim.png)
+!SLIDE bullets love
+# LOVE
+* Lots of contributors
+* Tons of free boxes
+* Great sponsors
 
 !SLIDE bullets sponsors
 # Sponsors
 * ![er](../images/banners/enterprise-rails.png)
   ![ps](../images/banners/pusher.png)
   ![pm](../images/banners/postmark.png)
+  ![s5](../images/banners/site5-logo.jpeg)
+  ![re](../images/banners/redistogo.png)
 
-!SLIDE bullets team
-# Team
-* ![franck](../images/team/franck.png)
-  ![damien](../images/team/damien.jpeg)
-  ![alex](../images/team/alex.png)
-  ![antares_](../images/team/antares_.jpg)
-  ![bai](../images/team/bai.jpeg)
-  ![fritzek](../images/team/fritzek.jpeg)
-  ![charper](../images/team/charper.jpeg)
-* @cesariogw, @dmathieu, @ifesdjeen
-* @michaelklishin, @\_beai, @charperuk, @fritzek
