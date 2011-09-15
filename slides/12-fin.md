@@ -1,3 +1,10 @@
+!SLIDE center bullets
+# oh, and about the tag line
+
+!SLIDE center bullets
+# Travis CI
+Distributed, continuous integration<br/>for the open source community
+
 !SLIDE
 # Thank you!
 

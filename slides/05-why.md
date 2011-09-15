@@ -20,6 +20,7 @@
 !SLIDE bullets
 # Vision
 * Be for <strong>builds</strong> what<br/>rubygems.org is for gems!
+* or what npm is for packages!
 
 !SLIDE bullets
 # Make the world<br> a better place!

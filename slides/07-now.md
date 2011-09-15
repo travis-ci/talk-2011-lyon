@@ -3,62 +3,42 @@
 
 !SLIDE bullets
 # Facts!
-* 440 Repositories
-* 7,500 Commits
-* 30,000 Builds
+* 1,200 Repositories
+* 20,000 Commits
+* 80,000 Builds
 
 !SLIDE bullets strike-through
-# Facts!
-* 440 Repositories
-* 7,500 Commits
-* 30,000 Builds
-
-!SLIDE bullets
 # Facts!
 * 1,200 Repositories
 * 20,000 Commits
 * 80,000 Builds
 
 !SLIDE bullets
-# Users?
-* RSpec, Cucumber, Devise, Mocha, ...
+# Facts!
+* 1,600 Repositories
+* 28,000 Commits
+* 115,000 Builds
 
 !SLIDE bullets
-# Who else?
-* Compass, Sprockets, OmniAuth, Mongoid, ...
-
-!SLIDE bullets
-# Wow!
-* Json, Webmock, CanCan, Whenever, ...
-
-!SLIDE bullets
-# Amazing!
-* Guard, Oauth2, Yard, SimpleCov, ...
-
-!SLIDE bullets gosh
-# GOSH
-* github-services bundler slimgems railscasts diaspora couch_potato active_admin
-* simple_form ruby-on-rails-tmbundle liquid execjs jenkins.rb nifty-generators active_merchant
-* grape request-log-analyzer refinerycms koala linguist htty vcr nested_form oauth2 savon ruby-warrior
-* communityengine i18n uglifier engineyard multi_json phony octokit pusher-gem parslet split globalize3
-* cloudist squeel russian themes_for_rails whois make_resourceful routing-filter girl_friday tire
-* rack-protection boom blather linkedin fabrication money curb restfulie chunky_png slop
-* faraday ripple serve celluloid stamp broadcast forem mongoid-tree tabtab
-
-!SLIDE bullets
-# By the way ...
+# Some of our Ruby users ...
 * Rails, Rubinius, Rubygems, Bundler
 
 !SLIDE bullets
-# WHY DAY
-* Shoes!
+# And our Node.js users ...
+* Batman.js
+
+!SLIDE bullets
+# But ...
+# I know there are more :)
 
 !SLIDE bullets
 # And ...
 * that's just the beginning.
 
-!SLIDE bullets center tweets
-![img](../images/tweets/mislav.png)
+!SLIDE bullets
+# Some cool features
+* Build status images for your readmes
+* http://isitrbx.herokuapp.com/
 
 !SLIDE bullets love
 # LOVE
@@ -71,6 +51,5 @@
 * ![er](../images/banners/enterprise-rails.png)
   ![ps](../images/banners/pusher.png)
   ![pm](../images/banners/postmark.png)
-  ![s5](../images/banners/site5-logo.jpeg)
   ![re](../images/banners/redistogo.png)
 

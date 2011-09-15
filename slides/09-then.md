@@ -12,16 +12,11 @@
 !SLIDE bullets
 # The Future
 * AMQP
-* Sproutcore
+* Sproutcore (just gone live)
 
 !SLIDE bullets
 # The Future
 * Github Fork Queue
-* Webhooks
-
-!SLIDE bullets
-# The Future
-* isit[ruby19|jruby].com
 * Dependent Builds
 
 !SLIDE bullets
@@ -37,12 +32,14 @@
 ![img](../images/tweets/freeformz.png)
 
 !SLIDE bullets
-# The Future
-* Node.js
+# We also support ...
+* Erlang!
 * Clojure
 
 !SLIDE bullets
-# The Future
-* Erlang!
+# And from tomorrow ...
+* Node.js !!!
+
+
 
 

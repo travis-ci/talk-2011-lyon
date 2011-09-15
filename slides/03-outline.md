@@ -11,7 +11,7 @@
 # Who uses a CI Server?
 
 !SLIDE bullets
-# Who tests on multiple Rubies?
+# Who tests on multiple Node.js versions?
 
 !SLIDE outline
 # Travis CI
@@ -20,4 +20,3 @@
 * How
 * Now
 * Then
-* (Tips)
