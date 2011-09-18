@@ -14,6 +14,11 @@
 * AMQP
 * Sproutcore
 
+!SLIDE bullets done
+# The Future
+* AMQP
+* Sproutcore
+
 !SLIDE bullets
 # The Future
 * Github Fork Queue

@@ -3,21 +3,21 @@
 
 !SLIDE bullets
 # Facts!
-* 440 Repositories
-* 7,500 Commits
-* 30,000 Builds
+* 1,200 Repositories
+* 20,000 Commits
+* 80,000 Builds
 
 !SLIDE bullets strike-through
-# Facts!
-* 440 Repositories
-* 7,500 Commits
-* 30,000 Builds
-
-!SLIDE bullets
 # Facts!
 * 1,200 Repositories
 * 20,000 Commits
 * 80,000 Builds
+
+!SLIDE bullets
+# Facts!
+* 1,700 Repositories
+* 30,000 Commits
+* 117,000 Builds
 
 !SLIDE bullets
 # Users?
@@ -50,12 +50,20 @@
 * Rails, Rubinius, Rubygems, Bundler
 
 !SLIDE bullets
-# WHY DAY
-* Shoes!
-
-!SLIDE bullets
 # And ...
 * that's just the beginning.
+
+!SLIDE bullets
+# Today
+* Erlang
+* Closujre
+* Node.js
+
+!SLIDE bullets
+# Real soon
+* Python
+* PHP
+* ?
 
 !SLIDE bullets center tweets
 ![img](../images/tweets/mislav.png)
@@ -69,7 +77,10 @@
 !SLIDE bullets sponsors
 # Sponsors
 * ![er](../images/banners/enterprise-rails.png)
+  ![ey](../images/banners/engineyard.png)
+  ![rl](../images/banners/railslove.png)
   ![ps](../images/banners/pusher.png)
+  ![rl](../images/banners/thoughtbot.png)
   ![pm](../images/banners/postmark.png)
   ![s5](../images/banners/site5-logo.jpeg)
   ![re](../images/banners/redistogo.png)

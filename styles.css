@@ -47,8 +47,10 @@ p {
   font-size: 72px;
 }
 .strike-through {
-  position: absolute;
-  background-image: url(images/strike-through.png);
+  background: url(images/strike-through.png) no-repeat center;
+}
+.done {
+  background: url(images/done.png) no-repeat center;
 }
 
 .outline h1 {
@@ -56,12 +58,12 @@ p {
 }
 .outline ul {
   position: relative;
-  margin: -2% 10% 0 10%;
+  margin: -2% 0% 0 18%;
   padding: 0;
-  width: 80%;
+  list-style-type: none;
 }
 .outline li {
-  width: 31%;
+  width: 35%;
   line-height: 180%;
   margin: 1%;
   float: left;
@@ -113,6 +115,9 @@ p {
   border: 1px solid #999;
   height: 72px;
   width: 170px;
+}
+.sponsors img:nth-child(2) {
+  border: 0;
 }
 
 .team img {
