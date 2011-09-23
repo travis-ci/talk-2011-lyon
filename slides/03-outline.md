@@ -11,6 +11,9 @@
 # Who uses a CI Server?
 
 !SLIDE bullets
+# And finally ...
+
+!SLIDE bullets
 # Who tests on multiple Rubies?
 
 !SLIDE outline
@@ -20,4 +23,4 @@
 * How
 * Now
 * Then
-* (Tips)
+* Q & A

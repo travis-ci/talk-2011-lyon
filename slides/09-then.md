@@ -21,33 +21,35 @@
 
 !SLIDE bullets
 # The Future
+* isit[ruby19|jruby].com
+* Moar clients
+
+!SLIDE bullets
+# The Future
+* isit[ruby19|jruby].com
+* Toolbar application
+
+!SLIDE bullets
+# The Future
+* isit[ruby19|jruby].com
+* Mobile client
+
+!SLIDE bullets
+# The Future
+* Build artefacts
+* VM abstraction
+
+!SLIDE bullets
+# The Future
+* Github Fork Queue
+* Webhooks
+
+!SLIDE bullets done
+# The Future
 * Github Fork Queue
 * Webhooks
 
 !SLIDE bullets
 # The Future
-* isit[ruby19|jruby].com
+* Github Fork Queue
 * Dependent Builds
-
-!SLIDE bullets
-# The Future
-* Toolbar application
-* Mobile client
-
-!SLIDE bullets
-# One more thing ...
-
-!SLIDE bullets center tweets
-# The Future
-![img](../images/tweets/freeformz.png)
-
-!SLIDE bullets
-# The Future
-* Node.js
-* Clojure
-
-!SLIDE bullets
-# The Future
-* Erlang!
-
-
