@@ -3,21 +3,21 @@
 
 !SLIDE bullets
 # Facts!
-* 1,200 Repositories
-* 20,000 Commits
-* 80,000 Builds
+* 1,700 Repositories
+* 30,000 Commits
+* 117,000 Builds
 
 !SLIDE bullets strike-through
-# Facts!
-* 1,200 Repositories
-* 20,000 Commits
-* 80,000 Builds
-
-!SLIDE bullets
 # Facts!
 * 1,700 Repositories
 * 30,000 Commits
 * 117,000 Builds
+
+!SLIDE bullets
+# Facts!
+* 2000 Repositories
+* 40,000 Commits
+* 170,000 Builds
 
 !SLIDE bullets
 # Users?
@@ -65,14 +65,9 @@
 * PHP
 * Cocoa
 
-!SLIDE bullets center tweets
-![img](../images/tweets/mislav.png)
-
-!SLIDE bullets love
+!SLIDE bullets center tweets love
 # LOVE
-* Lots of contributors
-* Tons of free boxes
-* Great sponsors
+![img](../images/tweets/mislav.png)
 
 !SLIDE bullets sponsors
 # Sponsors
@@ -80,8 +75,9 @@
   ![ey](../images/banners/engineyard.png)
   ![rl](../images/banners/railslove.png)
   ![ps](../images/banners/pusher.png)
+  ![rl](../images/banners/heroku.png)
+  ![rl](../images/banners/github.png)
   ![rl](../images/banners/thoughtbot.png)
   ![pm](../images/banners/postmark.png)
-  ![s5](../images/banners/site5-logo.jpeg)
   ![re](../images/banners/redistogo.png)
 
